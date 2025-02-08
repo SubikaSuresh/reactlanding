@@ -1,0 +1,25 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f40009; 
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+.explore-button {
+    margin-top: 30px;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+    background-color: white;
+    color: #f40009;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.explore-button:hover {
+    background-color: #dd9a76;
+    color: #f40009;
+}
